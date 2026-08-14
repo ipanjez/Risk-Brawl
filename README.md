@@ -1,8 +1,24 @@
 # 🥊 PKT Governance, Risk Management & ESG Brawler 🎮
 
-Selamat datang di **PKT Governance, Risk Management & ESG Brawler**! Sebuah aplikasi game edukasi aksi platformer multipemain *real-time* (Real-Time Multiplayer 2D Arena Brawler) yang dirancang untuk pembelajaran interaktif mengenai Tata Kelola Perusahaan (GCG), Manajemen Risiko (ISO 31000), Sistem Manajemen Anti Penyuapan (SMAP ISO 37001), Ketahanan Siber & Audit, Kerangka Kerja ESG & Dekarbonisasi Net-Zero 2030, serta Pemanfaatan Artificial Intelligence (AI) di lingkungan **PT Pupuk Kalimantan Timur (PKT)**. 🚀🏆
+Selamat datang di **PKT Governance, Risk Management & ESG Brawler**! Sebuah aplikasi game edukasi aksi platformer multipemain *real-time* (Real-Time Multiplayer 2D Arena Brawler) yang dirancang untuk simulasi pembelajaran interaktif mengenai Tata Kelola Perusahaan (GCG), Manajemen Risiko (ISO 31000), Sistem Manajemen Anti Penyuapan (SMAP ISO 37001), Ketahanan Siber & Audit, Kerangka Kerja ESG & Dekarbonisasi Net-Zero 2030, serta Pemanfaatan Artificial Intelligence (AI) di lingkungan industri petrokimia **PT Pupuk Kalimantan Timur (PKT)**. 🚀🏆
 
 Game ini menggabungkan mekanisme aksi arena pertarungan yang kompetitif, kuis tantangan *Knowledge Tower*, pengumpulan *Eco-Tokens*, perebutan senjata *Power-Up*, hingga penerbitan sertifikat kelulusan PDF resmi secara otomatis. Dirancang dengan visual modern, performa tinggi 60 FPS, serta dukungan jaringan lokal (LAN) maupun *online*. 🌿⚡
+
+---
+
+## 🔒 Pernyataan Keterbukaan & Data Non-Konfidensial (Public Data Notice)
+
+> [!NOTE]
+> **Seluruh kode sumber (*source code*), bank soal kuis, skenario studi kasus, aset visual, dan modul pembelajaran di dalam repositori ini TIDAK MENGANDUNG data rahasia (*non-confidential*) maupun informasi kepemilikan internal rahasia (*non-proprietary*).**
+
+- 📚 **Bersumber dari Standar Industri Terbuka:** Seluruh materi tata kelola dan manajemen risiko disusun semata-mata berdasarkan kerangka kerja standar internasional publik yang berlaku umum, antara lain:
+  - **ISO 31000:2018** (*Enterprise Risk Management*)
+  - **ISO 37001:2016** (*Anti-Bribery Management Systems / SMAP*)
+  - **ISO 27001:2022** (*Information Security, Cybersecurity and Privacy Protection*)
+  - **IIA Three Lines Model** (*Institute of Internal Auditors*)
+  - **GRI Standards** (*Global Reporting Initiative for ESG & Sustainability*)
+- 🌐 **Keterbukaan Publik:** Studi kasus ESG, inisiatif dekarbonisasi, dan konservasi alam merujuk pada informasi publik yang telah dirilis secara terbuka kepada masyarakat melalui *Annual Report* dan *Sustainability Report* korporasi.
+- 🛡️ **Sanitasi Data & Aset:** Seluruh parameter teknis, konfigurasi jaringan, serta aset grafis internal telah disanitasi dan dilindungi (termasuk pengecualian logo internal via `.gitignore`). Repositori ini murni difungsikan sebagai media edukasi dan gamifikasi (*Governance Gamified Learning Simulation*).
 
 ---
 
@@ -150,7 +166,7 @@ $$\text{Total Skor} = \text{Knowledge Score} + (\text{K.O. Count} \times 30) + \
 
 ---
 
-## 📄 Lisensi & Hak Cipta
+## 📄 Lisensi & Dedikasi Edukasi
 
-Dikembangkan untuk **PT Pupuk Kalimantan Timur** — *Kompartemen Tata Kelola & Manajemen Risiko*.  
-Didedikasikan untuk edukasi kepatuhan, penguatan budaya sadar risiko, dan pencapaian target Net-Zero Emission ESG 2030. 🌾🇲🇨
+Dikembangkan sebagai media pembelajaran interaktif bagi insan **PT Pupuk Kalimantan Timur** — *Kompartemen Tata Kelola & Manajemen Risiko*.  
+Didedikasikan untuk edukasi kepatuhan, penguatan budaya sadar risiko, serta peningkatan wawasan keberlanjutan ESG & Net-Zero 2030 berbasis standar internasional terbuka. 🌾🇲🇨
