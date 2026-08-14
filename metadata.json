@@ -1,0 +1,6 @@
+{
+  "name": "PKT Governance Risk Brawler",
+  "description": "2D Local Multiplayer Educational Platformer Brawler for PT Pupuk Kalimantan Timur Governance & Risk Management Compartment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.local
+
+# Assets & Logos to ignore
+*[Ll]ogo*[Tt][Kk][Mm][Rr]*
+*[Tt][Kk][Mm][Rr]*.[Pp][Nn][Gg]
+*[Tt][Kk][Mm][Rr]*.[Jj][Pp][Gg]
+*[Tt][Kk][Mm][Rr]*.[Jj][Pp][Ee][Gg]
+*.png.bak

@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 1,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Dalam kerangka Tiga Lini Pertahanan (Three Lines Model) di PT Pupuk Kaltim, siapakah yang bertindak sebagai Lini Pertama (First Line)?",
+    "options": [
+      "A. Seluruh unit kerja operasional dan pemilik proses bisnis dalam aktivitas kerja harian",
+      "B. Satuan Pengawasan Intern (SPI) yang melakukan audit kepatuhan tahunan secara berkala",
+      "C. Komite Audit Dewan Komisaris yang bertugas mengawasi kebijakan pelaporan finansial",
+      "D. Konsultan manajemen risiko eksternal yang ditunjuk menyusun profil risiko perusahaan"
+    ],
+    "answer": "A",
+    "explanation": "Lini Pertama adalah unit kerja operasional dan pemilik proses bisnis yang mengidentifikasi, mengelola, dan mengendalikan risiko secara langsung pada proses kerja harian."
+  },
+  {
+    "id": 2,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Apa fungsi pokok dari Lini Kedua (Second Line) seperti Kompartemen Tata Kelola & Manajemen Risiko di PKT?",
+    "options": [
+      "A. Memberikan asurans independen dan objektif langsung kepada Direksi dan Dewan Komisaris",
+      "B. Menyediakan kerangka kerja, bimbingan teknis, pemantauan, dan tantangan objektif atas risiko",
+      "C. Menggantikan tugas operator pabrik dalam mengoperasikan instrumen kontrol proses harian",
+      "D. Menetapkan putusan hukum pidana terhadap pelanggaran integritas karyawan di lingkungan BUMN"
+    ],
+    "answer": "B",
+    "explanation": "Lini Kedua memfasilitasi, memantau, memberi panduan metodologi, dan menantang analisis risiko yang dilakukan oleh unit kerja operasional (Lini Pertama)."
+  },
+  {
+    "id": 3,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Mengapa Satuan Pengawasan Intern (SPI) sebagai Lini Ketiga harus memiliki independensi struktural dalam organisasi?",
+    "options": [
+      "A. Supaya memiliki kewenangan mutlak membatalkan seluruh kontrak pengadaan barang korporasi",
+      "B. Agar dapat mengambil alih kepemimpinan divisi operasional saat terjadi krisis produksi pabrik",
+      "C. Agar bebas dari tanggung jawab operasional sehingga evaluasi tata kelola tetap objektif",
+      "D. Untuk mempermudah pelaporan keuangan kepada kementerian BUMN tanpa verifikasi dewan direksi"
+    ],
+    "answer": "C",
+    "explanation": "Independensi Lini Ketiga memastikan pemberian asurans dan konsultasi yang objektif tanpa benturan kepentingan dengan aktivitas operasional yang diaudit."
+  },
+  {
+    "id": 4,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Manakah pernyataan yang paling tepat mengenai interaksi yang sehat antara Lini Pertama dan Lini Kedua di PKT?",
+    "options": [
+      "A. Lini Pertama menunggu arahan tertulis Lini Kedua sebelum menjalankan prosedur standar keselamatan",
+      "B. Lini Pertama menyerahkan seluruh pengisian dokumen register risiko untuk dikerjakan staf Lini Kedua",
+      "C. Lini Kedua berwenang menghukum langsung personil lini pertama yang terlambat menyerahkan laporan",
+      "D. Lini Pertama aktif mengelola risiko, sedangkan Lini Kedua mendampingi serta memvalidasi matriksnya"
+    ],
+    "answer": "D",
+    "explanation": "Kolaborasi yang efektif menempatkan Lini Pertama sebagai pemilik dan pengelola risiko, sementara Lini Kedua berperan sebagai fasilitator, pemantau, dan penilai independen."
+  },
+  {
+    "id": 5,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Kepada siapakah Lini Ketiga (Satuan Pengawasan Intern) menyampaikan laporan pertanggungjawaban asurans auditnya?",
+    "options": [
+      "A. Serikat Pekerja Pupuk Kaltim dan perwakilan asosiasi industri pupuk nasional di Indonesia",
+      "B. Direktur Utama dan Dewan Komisaris melalui Komite Audit secara berkala dan independen",
+      "C. General Manager Operasi Pabrik 1 hingga 5 sebelum diteruskan ke pihak auditor eksternal",
+      "D. Kepala Kompartemen SDM untuk keperluan evaluasi indeks kinerja individu auditor internal"
+    ],
+    "answer": "B",
+    "explanation": "Lini Ketiga melapor secara fungsional kepada Dewan Komisaris/Komite Audit dan secara administratif kepada Direktur Utama untuk menjaga objektivitas asurans."
+  },
+  {
+    "id": 6,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Dalam prinsip akuntabilitas GCG, apa konsekuensi utama jika Lini Pertama mengabaikan pengelolaan risiko di unitnya?",
+    "options": [
+      "A. Kegagalan operasional langsung dialihkan menjadi tanggung jawab mutlak auditor internal SPI",
+      "B. Status sertifikasi ISO perusahaan otomatis dicabut seketika oleh kementerian perindustrian",
+      "C. Risiko eskalasi kerugian operasional meningkat dan unit kerja kehilangan efektivitas kendali",
+      "D. Seluruh sistem informasi akuntansi korporasi dibekukan sementara oleh komite tata kelola"
+    ],
+    "answer": "C",
+    "explanation": "Pemilik risiko di Lini Pertama bertanggung jawab langsung atas efektivitas pengendalian risiko; pengabaian akan memicu insiden operasional yang merugikan perusahaan."
+  },
+  {
+    "id": 7,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Apa peran Dewan Komisaris dan Direksi dalam kerangka Three Lines Model di PT Pupuk Kaltim?",
+    "options": [
+      "A. Melakukan pemeriksaan fisik harian terhadap peralatan instrumen pabrik di lapangan secara teknis",
+      "B. Mengambil alih tugas Lini Kedua dalam menyusun laporan mitigasi risiko bulanan proyek strategis",
+      "C. Menjadi perwakilan resmi perusahaan dalam setiap perundingan sengketa ketenagakerjaan buruh",
+      "D. Menetapkan arah tata kelola, menyetujui risk appetite, dan mengawasi efektivitas lini"
+    ],
+    "answer": "D",
+    "explanation": "Governing body (Direksi & Dewan Komisaris) memegang akuntabilitas tertinggi dalam menetapkan strategi, selera risiko (risk appetite), dan integritas tata kelola perusahaan."
+  },
+  {
+    "id": 8,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Manakah peran di bawah ini yang BUKAN merupakan tanggung jawab Lini Pertama dalam manajemen risiko?",
+    "options": [
+      "A. Memberikan penilaian asurans independen menyeluruh atas kinerja tata kelola Direksi",
+      "B. Mengidentifikasi potensi bahaya dan ketidakpastian proses pada unit kerjanya secara mandiri",
+      "C. Menjalankan tindakan mitigasi risiko sesuai batas waktu dan anggaran yang telah disetujui",
+      "D. Memelihara kepatuhan operasional terhadap SOP dan regulasi keselamatan kerja pabrik pupuk"
+    ],
+    "answer": "A",
+    "explanation": "Pemberian asurans independen atas tata kelola korporasi adalah wewenang eksklusif Lini Ketiga (SPI/Auditor), bukan Lini Pertama."
+  },
+  {
+    "id": 9,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Bagaimana Lini Kedua memastikan budaya sadar risiko (risk awareness) tertanam kuat di seluruh insan PKT?",
+    "options": [
+      "A. Menerapkan pemotongan gaji secara sepihak bagi karyawan yang melakukan kesalahan prosedur kerja",
+      "B. Melarang seluruh unit kerja mengambil inisiatif inovasi yang memiliki potensi kegagalan teknis",
+      "C. Menyelenggarakan sosialisasi, coaching klinik risiko, dan pengujian berkala profil risiko",
+      "D. Menyerahkan edukasi risiko sepenuhnya kepada pihak ketiga tanpa modul kurikulum internal PKT"
+    ],
+    "answer": "C",
+    "explanation": "Lini Kedua membangun budaya risiko melalui edukasi berkelanjutan, penyuluhan, fasilitasi risk assessment, dan evaluasi pemahaman karyawan secara berkesinambungan."
+  },
+  {
+    "id": 10,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Apa yang membedakan peran asurans (Lini 3) dengan peran konsultasi/pendampingan (Lini 2)?",
+    "options": [
+      "A. Lini 2 bertugas menjatuhkan sanksi hukum pidana, sedangkan Lini 3 menyusun laporan keuangan fiskal",
+      "B. Lini 2 hanya bertanggung jawab atas kepatuhan pajak, sedangkan Lini 3 mengurus klaim asuransi pabrik",
+      "C. Lini 2 berfokus pada audit investigasi kecurangan, sedangkan Lini 3 mengelola proses tender lelang",
+      "D. Lini 2 mendesain dan memantau kendali, sedangkan Lini 3 mengaudit efektivitasnya secara objektif"
+    ],
+    "answer": "D",
+    "explanation": "Lini 2 membantu mendesain dan memantau kerangka kerja pengendalian, sedangkan Lini 3 melakukan audit objektif untuk memastikan pengendalian tersebut bekerja efektif."
+  },
+  {
+    "id": 11,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Kapan koordinasi antara Lini Pertama, Kedua, dan Ketiga paling krusial dilakukan di lingkungan industri pupuk?",
+    "options": [
+      "A. Saat perencanaan proyek strategis besar, turnaround pabrik, dan perumusan target tahunan RKAP",
+      "B. Hanya pada saat terjadi audit investigasi eksternal dari aparat penegak hukum Republik Indonesia",
+      "C. Ketika terjadi perselisihan hubungan industrial antara manajemen perusahaan dan serikat pekerja",
+      "D. Hanya saat penyusunan materi publikasi laporan tahunan untuk rapat umum pemegang saham tahunan"
+    ],
+    "answer": "A",
+    "explanation": "Penyelarasan tiga lini sangat penting pada fase inisiasi proyek strategis, pemeliharaan besar pabrik (turnaround), dan penyusunan RKAP agar risiko teridentifikasi dini."
+  },
+  {
+    "id": 12,
+    "nodeId": "node_1",
+    "category": "Three Lines Model & Governance",
+    "question": "Apa manfaat utama penerapan Three Lines Model yang matang bagi daya saing PT Pupuk Kaltim?",
+    "options": [
+      "A. Menghilangkan seluruh potensi ketidakpastian bisnis sehingga laba bersih perusahaan pasti berlipat",
+      "B. Memperjelas akuntabilitas, mencegah tumpang tindih peran, dan melindungi nilai aset korporasi",
+      "C. Mengurangi kebutuhan personil teknis di lapangan karena fungsi kontrol digantikan otomatisasi penuh",
+      "D. Menjamin kepastian bebas tuntutan hukum bagi seluruh pejabat struktural perusahaan di masa depan"
+    ],
+    "answer": "B",
+    "explanation": "Three Lines Model meningkatkan kejelasan peran, meminimalkan 'blind spots' pengawasan, dan memperkuat ketahanan korporasi dalam mencapai target keberlanjutan."
+  },
+  {
+    "id": 13,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Berdasarkan standar ISO 31000 yang diadopsi Pupuk Kaltim, apa definisi dari 'Risiko'?",
+    "options": [
+      "A. Dampak dari ketidakpastian terhadap pencapaian sasaran atau target organisasi",
+      "B. Peristiwa bencana alam yang pasti mengakibatkan kerugian finansial pada seluruh aset fisik pabrik",
+      "C. Kegagalan operasional karyawan yang disebabkan oleh kelalaian mematuhi instruksi kerja lapangan",
+      "D. Fluktuasi harga komoditas global yang sama sekali tidak dapat dianalisis dengan metode statistik"
+    ],
+    "answer": "A",
+    "explanation": "ISO 31000 mendefinisikan risiko sebagai efek ketidakpastian terhadap sasaran (effect of uncertainty on objectives), yang bisa bernilai negatif (ancaman) atau positif (peluang)."
+  },
+  {
+    "id": 14,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Apa yang dimaksud dengan 'Risk Appetite' (Selera Risiko) korporasi dalam kerangka ERM PKT?",
+    "options": [
+      "A. Jumlah maksimum kerugian finansial yang dapat diterima perusahaan sebelum dinyatakan bangkrut",
+      "B. Besaran dan jenis risiko yang siap diambil organisasi dalam mengejar sasaran strategisnya",
+      "C. Sikap optimis berlebihan dewan komisaris dalam menerima seluruh usulan investasi tanpa evaluasi",
+      "D. Anggaran darurat yang disiapkan oleh bagian keuangan khusus untuk membayar sanksi denda regulasi"
+    ],
+    "answer": "B",
+    "explanation": "Risk Appetite adalah batas jenis dan besaran risiko yang secara sadar bersedia diambil atau dipertahankan perusahaan dalam rangka mencapai tujuannya."
+  },
+  {
+    "id": 15,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Dalam Matriks Analisis Risiko PKT, tingkat risiko ditentukan melalui kombinasi antara dua dimensi, yaitu:",
+    "options": [
+      "A. Total estimasi biaya investasi mitigasi dan durasi waktu penyelesaian proyek perbaikan instalasi",
+      "B. Jumlah personil pelaksana yang terlibat dan tingkat kerumitan teknologi peralatan pabrik amoniak",
+      "C. Tingkat Kemungkinan (Likelihood) terjadinya peristiwa dan Besaran Dampak (Impact)",
+      "D. Frekuensi audit kepatuhan internal dan total temuan ketidaksesuaian prosedur operasional standar"
+    ],
+    "answer": "C",
+    "explanation": "Tingkat risiko dihitung dari perkalian antara level kemungkinan terjadinya peristiwa (Likelihood/Probability) dan tingkat keparahan konsekuensinya (Impact/Consequence)."
+  },
+  {
+    "id": 16,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Apa perbedaan mendasar antara 'Risiko Inheren' (Inherent Risk) dan 'Risiko Residual' (Residual Risk)?",
+    "options": [
+      "A. Inheren berlaku khusus divisi keuangan, sedangkan Residual khusus untuk divisi pemeliharaan pabrik",
+      "B. Inheren dihitung dari kerugian finansial, sedangkan Residual hanya mengukur dampak penurunan citra",
+      "C. Inheren pasti menimbulkan kerugian nyata, sedangkan Residual berpotensi mendatangkan laba usaha",
+      "D. Inheren adalah risiko sebelum adanya kontrol, sedangkan Residual setelah kontrol diterapkan"
+    ],
+    "answer": "D",
+    "explanation": "Inherent Risk adalah level risiko mentah sebelum kontrol/mitigasi, sedangkan Residual Risk adalah level risiko yang tersisa setelah rencana aksi mitigasi dijalankan."
+  },
+  {
+    "id": 17,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Strategi mitigasi risiko apa yang diterapkan ketika PKT mengasuransikan aset pabrik amoniak dan urea bernilai tinggi?",
+    "options": [
+      "A. Penghindaran Risiko (Risk Avoidance)",
+      "B. Pengalihan Risiko (Risk Transfer / Sharing)",
+      "C. Penerimaan Risiko (Risk Retention)",
+      "D. Eksploitasi Peluang (Risk Exploitation)"
+    ],
+    "answer": "B",
+    "explanation": "Mengasuransikan aset pabrik adalah bentuk pengalihan risiko (Risk Transfer/Sharing) ke pihak ketiga (perusahaan asuransi) untuk membatasi beban finansial jika terjadi insiden."
+  },
+  {
+    "id": 18,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Apa fungsi dari Key Risk Indicator (KRI) dalam sistem pemantauan risiko di PT Pupuk Kaltim?",
+    "options": [
+      "A. Menghitung besaran bonus tahunan bagi unit kerja yang tidak mencatatkan kecelakaan kerja nihil",
+      "B. Mencatat riwayat pelanggaran disiplin jam kerja pegawai untuk bahan pertimbangan kenaikan golongan",
+      "C. Memberikan sinyal peringatan dini (early warning) atas perubahan profil risiko sebelum insiden",
+      "D. Menjadi acuan tunggal penetapan harga tebus pupuk bersubsidi kepada kelompok tani binaan PKT"
+    ],
+    "answer": "C",
+    "explanation": "KRI berfungsi sebagai indikator peringatan dini (early warning system) yang mengindikasikan peningkatan probabilitas atau keparahan risiko sebelum dampak negatif terwujud."
+  },
+  {
+    "id": 19,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Dalam Risk Maturity Model (RMM), level kematangan manajemen risiko tertinggi ditandai dengan karakteristik:",
+    "options": [
+      "A. Analisis risiko hanya disusun apabila ada permintaan khusus dari pemegang saham saat rapat umum",
+      "B. Penggunaan berkas register risiko statis yang disimpan rapi tanpa ada kewajiban pembaruan berkala",
+      "C. Pembentukan unit manajemen risiko terpusat yang mengambil alih wewenang seluruh manajer pabrik",
+      "D. Pengelolaan risiko terintegrasi penuh ke dalam setiap keputusan strategis dan operasional"
+    ],
+    "answer": "D",
+    "explanation": "Level kematangan tertinggi (Risk-Enabled / Integrated) tercapai ketika pengambilan keputusan di semua tingkatan telah berbasis risiko (risk-informed decision making)."
+  },
+  {
+    "id": 20,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Dokumen utama apa yang merangkum daftar seluruh risiko teridentifikasi, skor dampak, serta mitigasinya di unit kerja PKT?",
+    "options": [
+      "A. Risk Register (Daftar / Profil Risiko)",
+      "B. Rencana Anggaran Biaya Proyek (RAB)",
+      "C. Berita Acara Serah Terima Pengadaan (BAST)",
+      "D. Lembar Data Keselamatan Bahan Kimia (MSDS)"
+    ],
+    "answer": "A",
+    "explanation": "Risk Register adalah dokumen induk yang mencatat identifikasi risiko, akar penyebab, pemilik risiko, penilaian kemungkinan/dampak, serta status tindakan mitigasi."
+  },
+  {
+    "id": 21,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Manakah tindakan di bawah ini yang mencerminkan opsi respon 'Menghindari Risiko' (Risk Avoidance)?",
+    "options": [
+      "A. Memasang sensor deteksi kebocoran gas metana tercanggih di area kompresor pabrik amoniak utama",
+      "B. Mengalokasikan dana cadangan darurat kas untuk mengantisipasi potensi kenaikan tarif listrik pabrik",
+      "C. Membatalkan rencana investasi di wilayah bergejolak tinggi demi menjaga stabilitas aset",
+      "D. Mewajibkan penggunaan alat pelindung diri lengkap saat memasuki area reaktor bertemperatur tinggi"
+    ],
+    "answer": "C",
+    "explanation": "Risk Avoidance dilakukan dengan memutuskan untuk tidak memulai atau menghentikan aktivitas yang menimbulkan paparan risiko yang tidak dapat ditoleransi."
+  },
+  {
+    "id": 22,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Mengapa identifikasi akar penyebab (Root Cause Analysis) wajib dilakukan sebelum menyusun rencana mitigasi risiko?",
+    "options": [
+      "A. Agar manajemen dapat segera menjatuhkan sanksi administratif berat kepada personil bersangkutan",
+      "B. Untuk memperpanjang durasi penyusunan laporan agar dokumen telaah terlihat tebal dan mendalam",
+      "C. Menghindari kewajiban pelaporan berkala profil risiko kepada direksi operasional saat audit rutin",
+      "D. Supaya tindakan penanganan menyasar sumber masalah utama, bukan sekadar meredam gejalanya"
+    ],
+    "answer": "D",
+    "explanation": "Root Cause Analysis (RCA) memastikan solusi mitigasi efektif menghilangkan pemicu utama kegagalan, sehingga risiko tidak terulang kembali di masa depan."
+  },
+  {
+    "id": 23,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Dalam konteks pasokan gas alam sebagai bahan baku utama pupuk, risiko disrupsi pasokan paling tepat diklasifikasikan sebagai:",
+    "options": [
+      "A. Risiko Strategis dan Operasional Utama",
+      "B. Risiko Kepatuhan Pajak Penghasilan Badan",
+      "C. Risiko Hubungan Industrial Ketenagakerjaan",
+      "D. Risiko Penurunan Citra Media Sosial Perusahaan"
+    ],
+    "answer": "A",
+    "explanation": "Gas alam adalah bahan baku vital dan penentu kelangsungan operasional pabrik amoniak, sehingga ketidakpastian pasokan merupakan risiko strategis dan operasional utama."
+  },
+  {
+    "id": 24,
+    "nodeId": "node_2",
+    "category": "Enterprise Risk Management (ERM)",
+    "question": "Apa tujuan utama pelaksanaan Stress Testing dan Analisis Skenario dalam manajemen risiko keuangan PKT?",
+    "options": [
+      "A. Menghapuskan seluruh kewajiban pinjaman bank korporasi melalui metode rekayasa laporan akuntansi",
+      "B. Menguji daya tahan likuiditas perusahaan terhadap guncangan pasar ekstrem seperti anjloknya harga",
+      "C. Menentukan kuota pengurangan jumlah karyawan tetap saat kondisi pasar komoditas pupuk sedang lesu",
+      "D. Menghentikan kegiatan audit kepatuhan rutin demi menghemat pos pengeluaran kas tahun berjalan"
+    ],
+    "answer": "B",
+    "explanation": "Stress Testing menguji ketahanan permodalan dan likuiditas korporasi saat menghadapi skenario terburuk (pemburukan nilai tukar, harga komoditas jatuh, disrupsi pasokan)."
+  },
+  {
+    "id": 25,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Dalam prinsip Good Corporate Governance (TARIF), apa makna dari prinsip 'Fairness' (Kewajaran dan Kesetaraan)?",
+    "options": [
+      "A. Perlakuan yang adil dan setara kepada seluruh pemangku kepentingan sesuai hak dan regulasi",
+      "B. Memberikan porsi dividen dengan persentase paling istimewa kepada jajaran manajemen internal",
+      "C. Membebaskan seluruh rekanan pengadaan barang dari kewajiban verifikasi kelayakan dokumen legal",
+      "D. Menyamaratakan alokasi anggaran operasional setiap divisi tanpa memandang skala prioritas bisnis"
+    ],
+    "answer": "A",
+    "explanation": "Fairness menjamin perlakuan yang adil, setara, dan tidak diskriminatif bagi seluruh pemegang saham dan pemangku kepentingan sesuai peraturan perundang-undangan."
+  },
+  {
+    "id": 26,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Apa tujuan penerapan Sistem Manajemen Anti Penyuapan (SMAP) berbasis SNI ISO 37001 di PT Pupuk Kaltim?",
+    "options": [
+      "A. Membatasi saluran komunikasi antara manajemen perusahaan dengan perwakilan kelompok tani pemakai pupuk",
+      "B. Mencegah, mendeteksi, dan merespons segala bentuk tindak pidana penyuapan serta gratifikasi",
+      "C. Menghapuskan sistem lelang terbuka dalam proses pengadaan barang dan jasa bernilai strategis korporasi",
+      "D. Memberikan perlindungan hukum eksklusif bagi jajaran direksi saat mengeksekusi aksi akuisisi bisnis"
+    ],
+    "answer": "B",
+    "explanation": "ISO 37001 SMAP menyediakan kerangka kerja terstruktur untuk mencegah, mendeteksi, dan menindak penyuapan, pemerasan, serta gratifikasi terlarang di korporasi."
+  },
+  {
+    "id": 27,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Manakah tindakan yang WAJIB dilakukan insan PKT ketika menerima bingkisan atau hadiah hari raya dari rekanan bisnis?",
+    "options": [
+      "A. Menyimpan bingkisan tersebut di ruang kerja pribadi tanpa memberitahukan rekan kerja sekantor",
+      "B. Meminta pihak rekanan mengganti bingkisan fisik dengan transfer uang elektronik ke rekening pribadi",
+      "C. Menolak secara santun atau melaporkannya ke Unit Pengendalian Gratifikasi (UPG) tepat waktu",
+      "D. Menjual barang bingkisan tersebut dan membagikan hasil uangnya kepada regu kerja shift malam pabrik"
+    ],
+    "answer": "C",
+    "explanation": "Insan PKT wajib menolak gratifikasi yang berkaitan dengan jabatan, atau segera melaporkannya ke Unit Pengendalian Gratifikasi (UPG) sesuai SOP pedoman benturan kepentingan."
+  },
+  {
+    "id": 28,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Saluran pengaduan pelanggaran independen yang menjamin kerahasiaan identitas pelapor di Pupuk Kaltim disebut:",
+    "options": [
+      "A. Corporate Communication Digest (CCD)",
+      "B. Employee Engagement Forum (EEF)",
+      "C. Human Capital Management Portal (HCMP)",
+      "D. Whistleblowing System (WBS)"
+    ],
+    "answer": "D",
+    "explanation": "Whistleblowing System (WBS) adalah mekanisme pelaporan pelanggaran etika, hukum, dan kecurangan (fraud) yang menjamin perlindungan dan kerahasiaan pelapor."
+  },
+  {
+    "id": 29,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Apa yang dimaksud dengan 'Benturan Kepentingan' (Conflict of Interest) dalam etika bisnis PKT?",
+    "options": [
+      "A. Perbedaan target angka produksi pupuk antara divisi operasional pabrik dan divisi penjualan pupuk",
+      "B. Situasi di mana kepentingan pribadi atau keluarga mempengaruhi objektivitas keputusan jabatan",
+      "C. Perbedaan pendapat teknis antara kepala regu pemeliharaan mesin dengan operator instrumen lapangan",
+      "D. Persaingan positif antar departemen kerja dalam mewujudkan inovasi efisiensi energi tahun berjalan"
+    ],
+    "answer": "B",
+    "explanation": "Benturan kepentingan terjadi saat seseorang memiliki kepentingan pribadi/finansial yang berpotensi mencederai netralitas dan objektivitas dalam mengambil keputusan dinas."
+  },
+  {
+    "id": 30,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Dalam implementasi SMAP, mengapa proses Uji Kelayakan (Due Diligence) terhadap mitra bisnis baru mutlak diperlukan?",
+    "options": [
+      "A. Memaksa calon rekanan menyerahkan seluruh hak cipta teknologi rahasia yang dimilikinya ke publik",
+      "B. Mempersulit keikutsertaan vendor lokal agar tender pengadaan hanya dimenangkan oleh korporasi asing",
+      "C. Menilai reputasi integritas, rekam jejak kepatuhan hukum, dan memitigasi paparan risiko suap",
+      "D. Menghindari kewajiban pemotongan pajak pertambahan nilai pada setiap pelaksanaan kontrak komersial"
+    ],
+    "answer": "C",
+    "explanation": "Due Diligence integritas menilai profil risiko pihak ketiga untuk memastikan mitra bisnis bebas dari catatan korupsi, pencucian uang, dan pelanggaran hukum berat."
+  },
+  {
+    "id": 31,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Prinsip TARIF 'Responsibilitas' (Responsibility) dalam pengelolaan pabrik PKT paling nyata diwujudkan melalui:",
+    "options": [
+      "A. Menutup akses informasi pemantauan emisi cerobong pabrik dari warga sekitar demi rahasia industri",
+      "B. Membagikan seluruh laba ditahan sebagai dividen tanpa menyisihkan cadangan modal pemeliharaan pabrik",
+      "C. Memusatkan seluruh wewenang teknis operasional pemeliharaan pabrik kepada direktur utama tunggal",
+      "D. Kepatuhan terhadap baku mutu lingkungan, keselamatan kerja (K3), dan tanggung jawab sosial"
+    ],
+    "answer": "D",
+    "explanation": "Responsibilitas menekankan kepatuhan perusahaan terhadap peraturan perundang-undangan, regulasi lingkungan hidup, standar K3, dan kepedulian terhadap masyarakat."
+  },
+  {
+    "id": 32,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Apa fungsi utama dari penandatanganan Pakta Integritas oleh seluruh pegawai dan mitra kerja PKT?",
+    "options": [
+      "A. Komitmen tertulis untuk menolak suap, gratifikasi, kecurangan, dan menjunjung etika bisnis",
+      "B. Dokumen formalitas seremonial yang tidak memiliki konsekuensi sanksi pemutusan hubungan kerja",
+      "C. Surat perjanjian pengalihan seluruh hak paten karya ilmiah karyawan menjadi aset pribadi pimpinan",
+      "D. Pernyataan kesediaan bekerja lembur tanpa kompensasi upah resmi saat jadwal pemeliharaan pabrik"
+    ],
+    "answer": "A",
+    "explanation": "Pakta Integritas adalah komitmen mengikat untuk bertindak jujur, transparan, profesional, serta menolak segala bentuk praktik korupsi, kolusi, dan nepotisme."
+  },
+  {
+    "id": 33,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Manakah yang merupakan pilar penting dalam prinsip 'Transparansi' pada tata kelola pengadaan barang PKT?",
+    "options": [
+      "A. Membocorkan nilai harga perkiraan sendiri (HPS) kepada vendor rekanan tertentu sebelum lelang usai",
+      "B. Menunjuk langsung rekanan terpilih tanpa mempublikasikan kriteria kelayakan teknis pengadaan barang",
+      "C. Mengumumkan tender secara terbuka melalui e-procurement dengan spesifikasi yang adil dan jelas",
+      "D. Menolak memberikan penjelasan sanggahan teknis kepada peserta lelang yang dinyatakan gugur tender"
+    ],
+    "answer": "C",
+    "explanation": "Transparansi dalam pengadaan diwujudkan dengan keterbukaan informasi lelang, kriteria evaluasi yang objektif, dan akses setara melalui sistem e-procurement."
+  },
+  {
+    "id": 34,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Apa yang harus dilakukan pegawai jika menemukan indikasi tindak kecurangan (fraud) di unit kerjanya?",
+    "options": [
+      "A. Menyebarkan isu dugaan kecurangan di grup media sosial pribadi agar viral dan mendapat perhatian",
+      "B. Mengabaikan temuan tersebut selama kerugian keuangan yang terjadi tidak mengurangi penerimaan gaji",
+      "C. Menghubungi pihak pelaku secara rahasia untuk meminta imbalan uang tutup mulut agar tidak melapor",
+      "D. Melaporkannya melalui saluran resmi Whistleblowing System (WBS) disertai bukti permulaan sah"
+    ],
+    "answer": "D",
+    "explanation": "Laporan dugaan fraud harus disampaikan melalui kanal resmi WBS dengan bukti yang relevan agar dapat diinvestigasi secara profesional dan terlindungi."
+  },
+  {
+    "id": 35,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Mengapa pemisahan fungsi (Segregation of Duties) krusial dalam prosedur pembayaran keuangan perusahaan?",
+    "options": [
+      "A. Mencegah penyalahgunaan wewenang dan kecurangan melalui verifikasi silang otorisasi transaksi",
+      "B. Memperpanjang alur persetujuan birokrasi agar pencairan anggaran kas kantor memakan waktu berbulan-bulan",
+      "C. Menghapuskan keterlibatan kantor akuntan publik dalam mengaudit kewajaran laporan keuangan tahunan",
+      "D. Memungkinkan satu pejabat tunggal menandatangani dan mencairkan cek tanpa pemeriksaan pihak lain"
+    ],
+    "answer": "A",
+    "explanation": "Segregation of Duties mencegah fraud dan kesalahan dengan memastikan tidak ada satu individu pun yang mengendalikan seluruh siklus transaksi dari inisiasi hingga pencairan."
+  },
+  {
+    "id": 36,
+    "nodeId": "node_3",
+    "category": "Tata Kelola Perusahaan (GCG) & SMAP",
+    "question": "Bagaimana kriteria laporan WBS yang dapat ditindaklanjuti ke tahap investigasi oleh tim audit?",
+    "options": [
+      "A. Laporan anonim berupa opini kecurigaan tanpa memuat rincian peristiwa, lokasi, atau pihak terlibat",
+      "B. Memenuhi unsur 4W+1H (What, Who, Where, When, How) dan dilengkapi data pendukung yang relevan",
+      "C. Laporan pengaduan lisan yang ditandatangani oleh seluruh jajaran pengurus serikat pekerja cabang",
+      "D. Surat kaleng tanpa identitas yang dikirimkan tanpa indikasi bukti konkret mengenai tindak kecurangan"
+    ],
+    "answer": "B",
+    "explanation": "Laporan WBS yang berkualitas dan dapat diinvestigasi harus memuat kronologi faktual yang jelas (What, Who, When, Where, How) beserta indikasi bukti yang memadai."
+  },
+  {
+    "id": 37,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Apa fokus utama dari pendekatan 'Risk-Based Internal Auditing' (Audit Internal Berbasis Risiko) di PKT?",
+    "options": [
+      "A. Memprioritaskan pemeriksaan pada area kerja yang memiliki tingkat paparan risiko paling tinggi",
+      "B. Mengaudit seluruh dokumen transaksi keuangan secara acak tanpa mempertimbangkan skala dampaknya",
+      "C. Menghitung rekapitulasi kehadiran harian pegawai untuk dasar pemotongan tunjangan kinerja individu",
+      "D. Menguji ketahanan pagar kawat pembatas perimeter pabrik dari ancaman gangguan hewan liar setempat"
+    ],
+    "answer": "A",
+    "explanation": "Risk-Based Internal Auditing mengalokasikan sumber daya audit secara efektif ke proses bisnis dengan level risiko tertinggi yang mengancam sasaran strategis perusahaan."
+  },
+  {
+    "id": 38,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Berdasarkan standar keamanan informasi ISO 27001, apa tiga pilar utama kerahasiaan dan integritas data (CIA Triad)?",
+    "options": [
+      "A. Communication, Innovation, Agility (Komunikasi Efektif, Inovasi Bisnis, Ketangkasan Sistem)",
+      "B. Confidentiality, Integrity, Availability (Kerahasiaan, Keutuhan, Ketersediaan Data)",
+      "C. Compliance, Insurance, Accounting (Kepatuhan Regulasi, Asuransi Kerugian, Akuntansi Keuangan)",
+      "D. Control, Investigation, Authority (Pengendalian Aset, Penyelidikan Fraud, Otoritas Jabatan)"
+    ],
+    "answer": "B",
+    "explanation": "CIA Triad (Confidentiality, Integrity, Availability) adalah fondasi standar keamanan informasi untuk menjaga data tetap rahasia, akurat, dan siap diakses saat dibutuhkan."
+  },
+  {
+    "id": 39,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Metode serangan siber yang menggunakan email tipuan untuk mencuri kata sandi pegawai disebut:",
+    "options": [
+      "A. Denial of Service (DoS Attack)",
+      "B. SQL Injection Database Query",
+      "C. Phishing / Social Engineering",
+      "D. Man-in-the-Middle Network Sniffing"
+    ],
+    "answer": "C",
+    "explanation": "Phishing adalah teknik manipulasi psikologis (social engineering) melalui tautan/pesan palsu untuk memperdaya korban agar memberikan kredensial login akun."
+  },
+  {
+    "id": 40,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Mengapa sistem kendali industri Operational Technology (OT / SCADA) pabrik pupuk harus dipisahkan dari jaringan Enterprise IT?",
+    "options": [
+      "A. Menghemat alokasi kuota internet korporasi yang digunakan oleh staf administrasi kantor pusat",
+      "B. Memudahkan operator pabrik menonton video panduan keselamatan tanpa gangguan server perkantoran",
+      "C. Mengurangi konsumsi pemakaian daya listrik pendingin ruangan server di pusat kendali operasional",
+      "D. Mencegah ancaman siber dari jaringan perkantoran merembes dan mengganggu kendali proses pabrik"
+    ],
+    "answer": "D",
+    "explanation": "Segmentasi ketat (Air-gapping / Firewall perimeter) antara IT dan OT mencegah malware atau intrusi siber perkantoran melumpuhkan sistem kontrol kritis pabrik amoniak."
+  },
+  {
+    "id": 41,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Apa tindakan terbaik yang harus diambil pegawai saat menerima email mencurigakan yang meminta reset password akun korporasi?",
+    "options": [
+      "A. Segera mengklik tautan dalam email dan memasukkan password lama untuk membuktikan keaslian akun",
+      "B. Mengabaikan tautan dan segera melaporkannya ke tim Helpdesk IT / Cyber Security CSIRT PKT",
+      "C. Meneruskan email tersebut ke seluruh grup percakapan divisi kerja untuk meminta opini rekan kerja",
+      "D. Mengunduh lampiran berkas dalam email guna memeriksa keberadaan virus komputer secara mandiri"
+    ],
+    "answer": "B",
+    "explanation": "Jangan pernah mengklik tautan atau mengunduh lampiran email mencurigakan; segera laporkan ke tim Cyber Security Incident Response Team (CSIRT) untuk diblokir."
+  },
+  {
+    "id": 42,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Apa fungsi dari Multi-Factor Authentication (MFA / 2FA) pada akses sistem portal enterprise Pupuk Kaltim?",
+    "options": [
+      "A. Menghilangkan kewajiban pengguna sistem untuk menghafal nomor induk pegawai dan alamat email dinas",
+      "B. Mempercepat proses masuk otomatis tanpa perlu memasukkan kata sandi saat memakai komputer kantor",
+      "C. Menambah lapisan keamanan ganda sehingga akun terlindungi meski kata sandi diketahui peretas",
+      "D. Menggantikan peran perangkat firewall dalam memblokir serangan penolakan layanan di jaringan lokal"
+    ],
+    "answer": "C",
+    "explanation": "MFA menggabungkan dua atau lebih faktor autentikasi (password + OTP perangkat), sehingga akun terlindungi kuat dari pembajakan kredensial."
+  },
+  {
+    "id": 43,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Dalam audit kepatuhan, apa peran dokumen Audit Trail (Jejak Rekam Audit) pada aplikasi sistem ERP SAP?",
+    "options": [
+      "A. Menghapus riwayat transaksi lama secara otomatis untuk menghemat ruang penyimpanan server pusat",
+      "B. Menyimpan daftar seluruh kata sandi administrator sistem aplikasi dalam format teks terbuka umum",
+      "C. Mengirimkan tagihan pembayaran secara langsung kepada vendor pengadaan barang tanpa persetujuan tim",
+      "D. Merekam kronologi aktivitas pengguna secara permanen untuk melacak perubahan data dan otorisasi"
+    ],
+    "answer": "D",
+    "explanation": "Audit Trail mencatat 'siapa melakukan apa, kapan, dan perubahan apa yang terjadi' secara kronologis dan tidak dapat diubah, memudahkan pelacakan akuntabilitas."
+  },
+  {
+    "id": 44,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Apa tujuan utama pelaksanaan simulasi Disaster Recovery Plan (DRP) sistem informasi di PT Pupuk Kaltim?",
+    "options": [
+      "A. Memastikan kelangsungan operasional dan pemulihan data kritikal dapat berjalan cepat saat krisis",
+      "B. Menghitung nilai klaim kerugian asuransi yang dapat diajukan ke pihak penyedia polis penjaminan",
+      "C. Mengukur kedisiplinan pegawai dalam mematikan perangkat komputer perkantoran setelah jam dinas usai",
+      "D. Menghapuskan kebutuhan cadangan data berkala di lokasi pusat pemulihan data luar kota Bontang"
+    ],
+    "answer": "A",
+    "explanation": "DRP menguji kesiapan pemulihan sistem teknologi informasi ke Data Recovery Center (DRC) saat terjadi bencana agar operasional bisnis tidak lumpuh lama."
+  },
+  {
+    "id": 45,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Manakah praktik pengelolaan kata sandi (password hygiene) yang paling tepat bagi insan PKT?",
+    "options": [
+      "A. Menggunakan tanggal lahir sendiri yang mudah diingat dan menempelkan catatannya di tepi monitor PC",
+      "B. Menggunakan satu kata sandi yang sama persis untuk semua akun dinas dan akun media sosial pribadi",
+      "C. Menggunakan kombinasi huruf besar, kecil, angka, simbol unik serta menggantinya secara berkala",
+      "D. Membagikan kredensial login portal kepada rekan satu shift kerja agar pengisian laporan lebih cepat"
+    ],
+    "answer": "C",
+    "explanation": "Kata sandi yang kuat harus kompleks (kombinasi variatif), tidak mudah ditebak, tidak dibagikan ke orang lain, dan diperbarui berkala sesuai kebijakan TI."
+  },
+  {
+    "id": 46,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Serangan perangkat lunak jahat yang mengenkripsi data perusahaan dan meminta tebusan uang disebut:",
+    "options": [
+      "A. Spyware Keylogger",
+      "B. Adware Pop-up",
+      "C. Rootkit Utility",
+      "D. Ransomware"
+    ],
+    "answer": "D",
+    "explanation": "Ransomware mengunci/mengenkripsi berkas kritikal korban dan menuntut tebusan uang untuk kunci dekripsi, menjadi salah satu ancaman terbesar korporasi modern."
+  },
+  {
+    "id": 47,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Apa fungsi dari uji penetrasi (Penetration Testing) berkala yang dilakukan pada aplikasi web PKT?",
+    "options": [
+      "A. Mengidentifikasi celah kerentanan keamanan sistem sebelum dapat dieksploitasi oleh peretas",
+      "B. Meningkatkan kecepatan koneksi internet bagi seluruh karyawan yang bertugas di luar area pabrik",
+      "C. Memastikan tata letak grafis website korporasi telah sesuai dengan standar pedoman jenama resmi",
+      "D. Menghitung total kunjungan pengguna portal petani dan jaringan kios distributor pupuk nasional"
+    ],
+    "answer": "A",
+    "explanation": "Penetration Testing (Ethical Hacking) mengevaluasi keamanan sistem dengan mensimulasikan serangan nyata untuk menemukan celah kerentanan sebelum dibobol penyerang."
+  },
+  {
+    "id": 48,
+    "nodeId": "node_4",
+    "category": "Audit Internal & Cyber Security",
+    "question": "Dalam regulasi perlindungan data pribadi (UU PDP), apa kewajiban korporasi terhadap data pegawai dan pelanggan?",
+    "options": [
+      "A. Menjual basis data kontak pelanggan kepada mitra komersial lain guna menambah pendapatan kas kantor",
+      "B. Melindungi kerahasiaan data, memproses sesuai persetujuan, dan mencegah kebocoran informasi",
+      "C. Mempublikasikan riwayat rekam medis pegawai secara terbuka pada papan pengumuman internal kantor",
+      "D. Menyimpan seluruh data pribadi tanpa enkripsi pada server publik agar mempermudah akses pencarian"
+    ],
+    "answer": "B",
+    "explanation": "UU Perlindungan Data Pribadi mewajibkan korporasi menjaga kerahasiaan, mengamankan dari akses tanpa hak, dan memproses data sesuai dasar persetujuan yang sah."
+  },
+  {
+    "id": 49,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Apa kepanjangan dan fokus utama dari pilar 'ESG' dalam strategi keberlanjutan PT Pupuk Kaltim?",
+    "options": [
+      "A. Environmental, Social, and Governance (Pengelolaan Lingkungan, Tanggung Jawab Sosial, dan Tata Kelola)",
+      "B. Economic, Safety, Growth (Pertumbuhan Finansial Korporasi, Keselamatan Kerja, dan Ekspansi Aset Usaha)",
+      "C. Energy, Sustainability, Gain (Penghematan Konsumsi Energi, Keberlanjutan Usaha, dan Perolehan Laba)",
+      "D. Enterprise, Security, Guidance (Pengamanan Fasilitas Pabrik, Pengawasan Proyek, dan Kepatuhan Hukum)"
+    ],
+    "answer": "A",
+    "explanation": "ESG (Environmental, Social, Governance) adalah kerangka pengukuran kinerja non-keuangan terkait dampak lingkungan, relasi sosial komunitas, dan tata kelola berintegritas."
+  },
+  {
+    "id": 50,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Dalam inventarisasi Gas Rumah Kaca (GRK), emisi 'Scope 1' Pupuk Kaltim merujuk pada:",
+    "options": [
+      "A. Emisi tidak langsung dari konsumsi energi listrik yang dibeli dari gardu induk pembangkit luar",
+      "B. Emisi langsung yang dihasilkan dari sumber pembakaran bahan bakar dan proses kimia pabrik sendiri",
+      "C. Emisi dari perjalanan dinas pesawat udara komersial serta armada truk logistik distributor rekanan",
+      "D. Emisi yang terlepas ke atmosfer saat petani mengaplikasikan pupuk urea pada lahan pertanian sawah"
+    ],
+    "answer": "B",
+    "explanation": "Scope 1 mencakup emisi gas rumah kaca langsung dari aktivitas operasional yang dimiliki atau dikendalikan perusahaan (seperti proses reaktor pabrik amoniak)."
+  },
+  {
+    "id": 51,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Teknologi apa yang dikembangkan PKT untuk menangkap emisi CO2 pabrik dan menyimpannya secara permanen di bawah tanah?",
+    "options": [
+      "A. Flaring Gas Atmospheric Dispersion Unit (FGADU)",
+      "B. Reverse Osmosis Seawater Desalination (ROSD)",
+      "C. Carbon Capture, Utilization, and Storage (CCUS / CCS)",
+      "D. Thermal Coal Catalytic Gasification System (TCCGS)"
+    ],
+    "answer": "C",
+    "explanation": "CCUS (Carbon Capture, Utilization, and Storage) menangkap emisi karbon dioksida dari proses industri untuk dimanfaatkan kembali atau diinjeksi ke formasi geologi aman."
+  },
+  {
+    "id": 52,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Apa perbedaan utama antara 'Grey Ammonia', 'Blue Ammonia', dan 'Green Ammonia'?",
+    "options": [
+      "A. Grey khusus untuk alokasi pupuk bersubsidi; Blue untuk pasar ekspor; Green hanya diuji di laboratorium",
+      "B. Grey berbentuk larutan cair pekat; Blue berbentuk gas kompresi; Green berbentuk padatan kristal murni",
+      "C. Grey berbahaya bagi kesuburan tanah; Blue aman untuk pangan; Green dipakai khusus bahan bakar mesin",
+      "D. Grey dari gas fosil tanpa penangkap karbon; Blue dengan teknologi CCUS; Green dari energi terbarukan"
+    ],
+    "answer": "D",
+    "explanation": "Grey diproduksi dari gas fosil dengan emisi terbuka, Blue mengintegrasikan penangkapan karbon (CCS), dan Green menggunakan elektrolisis air bertenaga energi bersih terbarukan."
+  },
+  {
+    "id": 53,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Penghargaan peringkat tertinggi dari Kementerian LHK atas keunggulan pengelolaan lingkungan hidup berkelanjutan adalah:",
+    "options": [
+      "A. PROPER Biru",
+      "B. PROPER Emas",
+      "C. PROPER Hijau",
+      "D. PROPER Perak"
+    ],
+    "answer": "B",
+    "explanation": "PROPER Emas adalah predikat tertinggi KLHK untuk korporasi yang konsisten melampaui kepatuhan (beyond compliance), inovasi lingkungan, dan pemberdayaan masyarakat."
+  },
+  {
+    "id": 54,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Inisiatif pemanfaatan energi surya ramah lingkungan di atap gedung perkantoran dan fasilitas operasional PKT disebut:",
+    "options": [
+      "A. Reaktor Fisi Nuklir Miniatur Terpadu (RFNT Industri)",
+      "B. Turbin Pembakaran Gas Batubara Terbuka (TGBT)",
+      "C. Pembangkit Listrik Tenaga Surya (PLTS) Atap / Rooftop Solar",
+      "D. Generator Pembangkit Diesel Cadangan Darurat (GDCD)"
+    ],
+    "answer": "C",
+    "explanation": "Pemasangan PLTS Atap (Rooftop Solar PV) mengurangi konsumsi listrik jaringan fosil dan menekan jejak karbon operasional perkantoran dan utilitas pabrik."
+  },
+  {
+    "id": 55,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Apa tujuan dari penerapan prinsip Ekonomi Sirkular (Circular Economy) dalam operasional industri PKT?",
+    "options": [
+      "A. Membuang seluruh limbah buangan pabrik ke laut dalam guna menghemat biaya pengolahan instalasi IPAL",
+      "B. Membatasi pengoperasian pabrik pupuk hanya saat musim penghujan guna mengurangi pemakaian air baku",
+      "C. Menggantikan seluruh peranan tenaga kerja manusia dengan sistem robotik otomasi secara serentak",
+      "D. Mengoptimalkan siklus material, meminimalkan limbah, dan mendaur ulang residu jadi bernilai"
+    ],
+    "answer": "D",
+    "explanation": "Ekonomi sirkular berfokus pada efisiensi sumber daya (reduce, reuse, recycle), memperpanjang siklus hidup material, dan mengolah produk samping menjadi komoditas bernilai."
+  },
+  {
+    "id": 56,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Mengapa efisiensi konsumsi energi spesifik per ton produk pupuk menjadi indikator kunci dekarbonisasi di pabrik PKT?",
+    "options": [
+      "A. Penurunan konsumsi energi berbanding lurus dengan pengurangan emisi gas rumah kaca dan biaya",
+      "B. Memenuhi syarat perizinan agar pabrik dapat menonaktifkan instrumen keselamatan gas di malam hari",
+      "C. Memungkinkan penghentian operasional instalasi pengolahan air limbah terpadu tanpa sanksi dinas",
+      "D. Menjadi dasar hukum mutlak bagi manajemen untuk menaikkan harga tebus pupuk urea kepada petani"
+    ],
+    "answer": "A",
+    "explanation": "Efisiensi konsumsi energi spesifik menurunkan konsumsi gas alam per ton amoniak/urea, yang secara langsung menekan emisi gas rumah kaca dan menghemat biaya operasional."
+  },
+  {
+    "id": 57,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Apa peran program Community Development / TJSL dalam pilar 'Social' ESG di lingkungan masyarakat Bontang?",
+    "options": [
+      "A. Memberikan donasi uang tunai instan tanpa adanya pendampingan program peningkatan kapasitas warga",
+      "B. Mengalihkan tanggung jawab pengelolaan limbah berbahaya pabrik kepada kelompok warga pemukiman",
+      "C. Menciptakan kemandirian ekonomi, peningkatan kualitas pendidikan, dan kesehatan masyarakat",
+      "D. Mewajibkan seluruh penduduk sekitar pabrik menjadi agen penjualan produk pupuk komersial nonsubsidi"
+    ],
+    "answer": "C",
+    "explanation": "Pilar Sosial ESG diwujudkan melalui program TJSL terstruktur yang memberdayakan ekonomi lokal, meningkatkan taraf hidup, pendidikan, dan kesehatan berkelanjutan."
+  },
+  {
+    "id": 58,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Dalam target Net-Zero Emission, apa yang dimaksud dengan 'Carbon Offsetting'?",
+    "options": [
+      "A. Mengabaikan perhitungan emisi internal pabrik dengan membayar retribusi tahunan ke kas daerah",
+      "B. Menghentikan total produksi pupuk kimia nasional dan beralih sepenuhnya ke pupuk organik kompos",
+      "C. Memindahkan seluruh cerobong pembuangan gas pabrik ke pulau terpencil yang tidak berpenghuni",
+      "D. Mengimbangi emisi yang dihasilkan dengan mendanai proyek penyerapan karbon seperti reboisasi"
+    ],
+    "answer": "D",
+    "explanation": "Carbon Offsetting adalah kompensasi jejak karbon melalui investasi pada aksi penyerapan karbon di luar pagar pabrik (seperti penanaman mangrove dan restorasi hutan)."
+  },
+  {
+    "id": 59,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Standar pelaporan internasional apa yang digunakan PKT dalam menyusun Laporan Keberlanjutan (Sustainability Report)?",
+    "options": [
+      "A. Global Reporting Initiative (GRI Standards)",
+      "B. International Accounting Standards (IAS 39)",
+      "C. National Association of Securities Dealers (NASD)",
+      "D. World Intellectual Property Organization (WIPO)"
+    ],
+    "answer": "A",
+    "explanation": "GRI (Global Reporting Initiative) Standards adalah pedoman global paling luas yang digunakan korporasi untuk melaporkan kinerja dampak ekonomi, lingkungan, dan sosial."
+  },
+  {
+    "id": 60,
+    "nodeId": "node_5",
+    "category": "ESG & Dekarbonisasi",
+    "question": "Bagaimana integrasi ESG mempengaruhi akses pendanaan investasi hijau (Green Financing) bagi PT Pupuk Kaltim?",
+    "options": [
+      "A. Lembaga perbankan internasional menolak menyalurkan kredit apabila perusahaan memiliki sertifikat ESG",
+      "B. Peringkat ESG yang kuat mempermudah akses modal dengan suku bunga kompetitif untuk proyek hijau",
+      "C. Kinerja ESG sama sekali tidak diperhitungkan dalam evaluasi kelayakan pembiayaan perbankan modern",
+      "D. Korporasi diwajibkan mengalihkan kepemilikan saham mayoritas kepada konsorsium lembaga donor luar"
+    ],
+    "answer": "B",
+    "explanation": "Skor ESG yang unggul membuka akses ke instrumen obligasi hijau (Green Bonds) dan pinjaman sindikasi perbankan dengan suku bunga yang lebih menarik bagi proyek transisi energi."
+  },
+  {
+    "id": 61,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Bagaimana penerapan 'Predictive Maintenance' berbasis AI meningkatkan keandalan mesin pabrik di PKT?",
+    "options": [
+      "A. Menganalisis getaran, suhu, dan sensor operasi secara riil untuk memprediksi kerusakan dini",
+      "B. Mengganti seluruh suku cadang turbin mesin setiap hari tanpa mempertimbangkan kondisi fisik alat",
+      "C. Menghapus jadwal pemeliharaan rutin pabrik dan baru memperbaiki mesin setelah terjadi ledakan pipa",
+      "D. Memakai algoritma komputer untuk mematikan sirine bahaya pabrik tanpa melakukan inspeksi mekanis"
+    ],
+    "answer": "A",
+    "explanation": "Predictive maintenance menggunakan Machine Learning untuk mendeteksi anomali pola getaran/suhu sensor, memungkinkan perbaikan preventif sebelum terjadi trip pabrik."
+  },
+  {
+    "id": 62,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Dalam penerapan Generative AI (GenAI) di tempat kerja, apa risiko utama dari fenomena 'AI Hallucination'?",
+    "options": [
+      "A. Perangkat server komputer mengeluarkan bunyi bising saat memproses kalkulasi berkas dokumen teks",
+      "B. Model AI menghasilkan informasi keliru namun disajikan dengan gaya bahasa sangat meyakinkan",
+      "C. Program AI secara otomatis menolak instruksi pengguna jika suhu ruangan kantor melampaui batas",
+      "D. Layar monitor komputer menampilkan kedipan warna acak yang mengganggu penglihatan staf pengguna"
+    ],
+    "answer": "B",
+    "explanation": "AI Hallucination terjadi ketika model bahasa besar mengarang fakta atau data fiktif secara meyakinkan, sehingga verifikasi manusia (Human-in-the-loop) mutlak diperlukan."
+  },
+  {
+    "id": 63,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Manakah pedoman etika penggunaan alat Generative AI publik (seperti ChatGPT/Claude) yang benar bagi insan PKT?",
+    "options": [
+      "A. Memasukkan seluruh data rahasia laporan keuangan triwulan dan data pribadi nasabah ke sistem AI",
+      "B. Memakai teknologi AI untuk memalsukan tanda tangan digital pimpinan divisi pada berkas pengadaan",
+      "C. Dilarang mengunggah data rahasia perusahaan dan selalu memverifikasi ulang keakuratan output",
+      "D. Menyalin mentah seluruh teks jawaban AI ke dalam dokumen resmi dinas tanpa membaca dan menelaahnya"
+    ],
+    "answer": "C",
+    "explanation": "Insan PKT wajib mematuhi kerahasiaan data korporasi (tidak mengunggah data rahasia ke platform AI publik) dan memverifikasi setiap konten sebelum dijadikan keputusan dinas."
+  },
+  {
+    "id": 64,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Bagaimana algoritma Computer Vision bertenaga AI dimanfaatkan untuk keselamatan kerja (K3) di area pabrik?",
+    "options": [
+      "A. Menghitung total langkah kaki pekerja saat jam istirahat makan siang untuk laporan indeks bugar",
+      "B. Mengubah warna gambar seragam kerja karyawan secara digital pada layar monitor ruang kendali sentral",
+      "C. Mengunci pintu keluar darurat gedung secara otomatis saat mendeteksi karyawan yang berlari kencang",
+      "D. Mendeteksi secara otomatis personil yang tidak memakai APD lengkap di zona bahaya lewat CCTV"
+    ],
+    "answer": "D",
+    "explanation": "Computer Vision pada kamera CCTV memantau kepatuhan APD (helm, rompi, kacamata K3) dan mendeteksi masuknya personil tanpa izin ke area berisiko tinggi secara real-time."
+  },
+  {
+    "id": 65,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Apa manfaat implementasi AI dalam optimasi rantai pasok (Supply Chain Optimization) pupuk nasional?",
+    "options": [
+      "A. Membatasi penyaluran pupuk hanya kepada agen kios yang bersedia membayar biaya komisi tambahan",
+      "B. Memprediksi kebutuhan pupuk berbasis musim tanam dan merutekan logistik distribusi efisien",
+      "C. Menghentikan pasokan pupuk ke pulau terluar demi meminimalkan biaya konsumsi bahan bakar kapal",
+      "D. Menghapus fungsi gudang penyangga lini III dan membiarkan karung pupuk tersimpan di ruang terbuka"
+    ],
+    "answer": "B",
+    "explanation": "AI menganalisis data historis cuaca, pola tanam, dan permintaan regional untuk memproyeksikan kebutuhan pupuk serta mengoptimalkan rute logistik agar stok tepat waktu."
+  },
+  {
+    "id": 66,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Dalam tata kelola AI, apa yang dimaksud dengan prinsip 'Explainable AI' (XAI)?",
+    "options": [
+      "A. Program AI yang dirancang khusus untuk menerjemahkan percakapan bahasa asing ke dialek lokal",
+      "B. Kewajiban pengguna komputer untuk memaparkan alasan pribadi sebelum diperbolehkan menyalakan PC",
+      "C. Kemampuan algoritma AI untuk memberikan alasan logis dan dapat dipahami atas keputusannya",
+      "D. Buku panduan pengoperasian perangkat lunak komputer yang ditulis memakai bahasa mesin biner"
+    ],
+    "answer": "C",
+    "explanation": "Explainable AI (XAI) memastikan bahwa penalaran di balik output/rekomendasi model AI dapat ditelusuri, dipahami, dan diaudit oleh manusia (tidak bersifat 'black-box')."
+  },
+  {
+    "id": 67,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Teknologi 'Digital Twin' berbasis AI pada pabrik kimia Pupuk Kaltim berfungsi untuk:",
+    "options": [
+      "A. Membangun miniatur fisik pabrik baru berskala kecil untuk dijadikan pajangan etalase kantor",
+      "B. Menggandakan akun media sosial perusahaan agar promosi produk menjangkau lebih banyak audiens",
+      "C. Membagi jadwal kerja harian operator lapangan menjadi dua giliran kerja tanpa jeda istirahat",
+      "D. Mereplikasi sistem pabrik secara virtual dan riil guna simulasi proses serta optimasi performa"
+    ],
+    "answer": "D",
+    "explanation": "Digital Twin adalah model virtual pabrik yang terhubung langsung dengan sensor fisik untuk mensimulasikan skenario operasi, optimasi efisiensi reaktor, dan uji coba risiko."
+  },
+  {
+    "id": 68,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Mengapa 'Prompt Engineering' penting dalam pemanfaatan alat bantu GenAI di lingkungan korporasi?",
+    "options": [
+      "A. Merumuskan instruksi terstruktur dan kontekstual agar AI menghasilkan output yang akurat",
+      "B. Memperbaiki kerusakan fisik kabel konektor server komputer perusahaan secara nirkabel jarak jauh",
+      "C. Membobol sistem pertahanan siber agar pengguna dapat mengunduh berkas rahasia tanpa persetujuan",
+      "D. Menghilangkan kewajiban pembayaran lisensi perangkat lunak perkantoran berbayar secara ilegal"
+    ],
+    "answer": "A",
+    "explanation": "Prompt Engineering yang baik memberikan konteks, batasan, peran, dan format output yang jelas sehingga model AI memberikan hasil analisis yang tepat sasaran."
+  },
+  {
+    "id": 69,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Dalam mitigasi risiko bias AI, apa bahaya utama jika data latih (training data) algoritma tidak seimbang?",
+    "options": [
+      "A. Komputer kantor membutuhkan waktu lebih lama saat membuka berkas teks dibanding file multimedia",
+      "B. Kapasitas media penyimpanan server korporasi akan terkuras habis dalam tempo beberapa menit saja",
+      "C. Keputusan AI menjadi diskriminatif, tidak adil, atau memihak kelompok data tertentu secara keliru",
+      "D. Sistem operasi komputer akan menghapus seluruh data arsip surat masuk perusahaan secara otomatis"
+    ],
+    "answer": "C",
+    "explanation": "Algoritma AI mewarisi bias dari data latihnya; data yang tidak representatif atau timpang akan menghasilkan keputusan seleksi/penilaian yang tidak adil."
+  },
+  {
+    "id": 70,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Bagaimana integrasi AI dan Internet of Things (AIoT) membantu program konservasi energi di pabrik PKT?",
+    "options": [
+      "A. Mematikan seluruh lampu penerangan jalan utama kawasan pabrik saat giliran kerja shift malam",
+      "B. Membatasi pemakaian komputer kerja oleh karyawan hanya selama dua jam penuh dalam satu hari dinas",
+      "C. Menghentikan sistem pemantauan emisi cerobong agar prosesor komputer tidak mengalami panas berlebih",
+      "D. Menyesuaikan beban pendingin, uap panas, dan konsumsi daya secara otomatis berbasis kondisi riil"
+    ],
+    "answer": "D",
+    "explanation": "AIoT mengontrol parameter operasional pembangkit utilitas secara presisi sesuai dinamika beban pabrik, memaksimalkan efisiensi energi dan menekan emisi."
+  },
+  {
+    "id": 71,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Konsep 'Human-in-the-Loop' (HITL) dalam tata kelola kecerdasan buatan PKT menegaskan bahwa:",
+    "options": [
+      "A. Manusia memegang kendali pengawasan, pertimbangan etika, dan keputusan akhir atas rekomendasi AI",
+      "B. Semua tugas teknis di lapangan wajib dikerjakan secara manual tanpa bantuan peralatan mekanis",
+      "C. Pegawai dilarang memanfaatkan perangkat lunak komputer modern dalam mengolah data neraca keuangan",
+      "D. Sistem AI berwenang menjatuhkan sanksi administratif kepegawaian tanpa memerlukan telaah pimpinan"
+    ],
+    "answer": "A",
+    "explanation": "Human-in-the-Loop memastikan keputusan penting tetap dievaluasi dan diotorisasi oleh manusia yang bertanggung jawab secara hukum dan etika, bukan diserahkan mutlak ke AI."
+  },
+  {
+    "id": 72,
+    "nodeId": "node_6",
+    "category": "Penerapan AI & GenAI",
+    "question": "Apa tindakan yang harus dilakukan jika hasil analisis GenAI bertentangan dengan Standar Operasional Prosedur (SOP) resmi PKT?",
+    "options": [
+      "A. Segera merevisi dokumen SOP resmi perusahaan agar menyesuaikan dengan kalimat yang dibuat oleh AI",
+      "B. Tetap mematuhi SOP resmi dan melaporkan ketidaksesuaian output AI kepada penanggung jawab sistem",
+      "C. Mematikan seluruh aliran listrik gedung perkantoran dan menghentikan proses produksi amoniak",
+      "D. Menjalankan rekomendasi AI secara diam-diam tanpa memberitahukan kepada atasan ataupun rekan kerja"
+    ],
+    "answer": "B",
+    "explanation": "SOP dan regulasi resmi korporasi selalu menjadi rujukan tertinggi; output AI hanya bersifat rekomendasi pendukung yang tidak boleh mengesampingkan prosedur baku."
+  },
+  {
+    "id": 73,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Program konservasi keanekaragaman hayati laut unggulan PT Pupuk Kaltim di perairan Bontang meliputi:",
+    "options": [
+      "A. Penurunan media terumbu buatan (artificial reef) dan transplantasi terumbu karang",
+      "B. Penangkapan ikan karang skala besar di kawasan perairan konservasi menggunakan armada pukat hela",
+      "C. Pembangunan pelabuhan kargo beton komersial di atas zona terumbu karang hidup yang dilindungi",
+      "D. Penambangan pasir laut secara masif untuk kebutuhan material reklamasi proyek ekspansi pabrik"
+    ],
+    "answer": "A",
+    "explanation": "PKT aktif merehabilitasi ekosistem laut melalui penurunan ribuan terumbu karang buatan dan transplantasi karang di perairan Teluk Bontang dan Pulau Beras Basah."
+  },
+  {
+    "id": 74,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Inisiatif 'Eco-Move' yang digalakkan di lingkungan PT Pupuk Kaltim berfokus pada gerakan:",
+    "options": [
+      "A. Pemindahan seluruh kegiatan operasional perkantoran korporasi ke kawasan ibu kota nusantara baru",
+      "B. Pengurangan sampah plastik sekali pakai, pemilahan limbah bernilai, dan aksi gaya hidup sirkular",
+      "C. Pengadaan armada kendaraan dinas berbahan bakar fosil dengan kapasitas mesin besar bagi seluruh staf",
+      "D. Penggantian seluruh kemasan karung pupuk ramah lingkungan dengan kotak kayu sekali pakai buang"
+    ],
+    "answer": "B",
+    "explanation": "Eco-Move adalah gerakan budaya keberlanjutan insan PKT untuk mengurangi timbulan sampah plastik, pemilahan sampah sirkular, dan efisiensi jejak ekologis."
+  },
+  {
+    "id": 75,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Apa peran ekologis utama dari kawasan konservasi hutan Mangrove yang dilindungi oleh Pupuk Kaltim di pesisir Bontang?",
+    "options": [
+      "A. Menghasilkan pasokan kayu bakar berkualitas untuk diekspor ke industri pengolahan kayu luar negeri",
+      "B. Mengeringkan area rawa pasang surut pesisir agar dapat dialihfungsikan menjadi kompleks perumahan",
+      "C. Menyerap karbon biru (blue carbon), menahan abrasi pantai, dan menjadi habitat pemijahan biota laut",
+      "D. Menutup akses perahu nelayan tradisional saat berlayar mencari tangkapan ikan di laut pesisir"
+    ],
+    "answer": "C",
+    "explanation": "Hutan Mangrove merupakan penyerap karbon biru (blue carbon) yang sangat efektif, pelindung alami garis pantai dari abrasi, serta nursery ground ikan dan kepiting."
+  },
+  {
+    "id": 76,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Program konservasi flora langka endemik Kalimantan yang dibudidayakan di Taman Kehati PKT meliputi:",
+    "options": [
+      "A. Tanaman gandum iklim subtropis dan perkebunan pohon palem minyak impor dari dataran Afrika",
+      "B. Pohon pinus gurun pasir dan berbagai jenis kaktus hias dataran tinggi dari benua Amerika",
+      "C. Tanaman buah apel fuji serta perkebunan teh monokultur skala industri luas di tepi pantai",
+      "D. Anggrek Hitam (Coelogyne pandurata) dan tanaman obat tradisional khas hutan Kalimantan"
+    ],
+    "answer": "D",
+    "explanation": "Taman Kehati PKT melindungi plasma nutfah endemik Kalimantan, termasuk Anggrek Hitam langka, pohon ulin, dan ratusan jenis tumbuhan obat tradisional lokal."
+  },
+  {
+    "id": 77,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Dalam program pemberdayaan masyarakat pesisir, inisiatif budidaya kepiting dan lobster ramah lingkungan bertujuan untuk:",
+    "options": [
+      "A. Memonopoli seluruh hasil panen perikanan nelayan lokal dengan patokan harga di bawah harga pasar",
+      "B. Meningkatkan pendapatan nelayan secara berkelanjutan tanpa merusak habitat mangrove alami",
+      "C. Melarang warga pesisir melaut dan mewajibkan mereka beralih profesi menjadi tenaga buruh harian",
+      "D. Membudidayakan bibit kepiting asing yang berpotensi menjadi hama invasif perusak ekosistem lokal"
+    ],
+    "answer": "B",
+    "explanation": "Program TJSL maritim PKT membina kelompok nelayan dengan teknik budidaya kepiting bakau ramah lingkungan, menciptakan kemandirian ekonomi sekaligus melestarikan ekosistem."
+  },
+  {
+    "id": 78,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Bagaimana konsep 'Bank Sampah' dalam program inovasi sosial PKT menciptakan nilai ekonomi bagi masyarakat?",
+    "options": [
+      "A. Menimbun seluruh sampah domestik di lahan pembuangan akhir hingga daya tampung lahan habis",
+      "B. Membakar seluruh timbulan sampah plastik secara terbuka di area pemukiman warga pada malam hari",
+      "C. Mengonversi sampah anorganik terpilah menjadi tabungan finansial dan produk daur ulang bernilai",
+      "D. Menarik pungutan iuran bulanan bagi setiap keluarga yang mengumpulkan botol kemasan plastik bekas"
+    ],
+    "answer": "C",
+    "explanation": "Bank Sampah binaan PKT mengedukasi warga memilah sampah kering bernilai jual, yang kemudian dikonversi menjadi tabungan emas/uang dan produk kerajinan daur ulang."
+  },
+  {
+    "id": 79,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Satwa endemik langka dilindungi apa yang menjadi fokus konservasi habitat di kawasan PT Pupuk Kaltim?",
+    "options": [
+      "A. Kanguru pohon papua dan burung merak hijau dataran tinggi pulau jawa bagian timur",
+      "B. Harimau sumatera dan gajah sumatera di kawasan hutan konservasi suaka margasatwa",
+      "C. Beruang kutub utara dan anjing laut abu-abu perairan samudera arktik bagian selatan",
+      "D. Burung Rangkong (Enggang) dan Rusa Sambar di area penangkaran alami perusahaan"
+    ],
+    "answer": "D",
+    "explanation": "PKT memelihara dan menangkarkan Rusa Sambar serta melindungi habitat Burung Rangkong (Enggang Badak) yang merupakan maskot kebanggaan fauna Kalimantan Timur."
+  },
+  {
+    "id": 80,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Apa indikator utama keberhasilan program transplantasi terumbu karang di perairan Teluk Bontang?",
+    "options": [
+      "A. Peningkatan persentase tutupan karang hidup dan kembalinya keanekaragaman ikan karang",
+      "B. Penurunan drastis volume kunjungan wisatawan bahari yang berekreasi di kawasan pesisir pulau",
+      "C. Perubahan warna air laut menjadi keruh kecokelatan akibat tingginya endapan lumpur industri",
+      "D. Hilangnya seluruh keanekaragaman spesies alga dan rumput laut dari dasar perairan terumbu"
+    ],
+    "answer": "A",
+    "explanation": "Keberhasilan terumbu buatan diukur dari laju pertumbuhan koloni karang hidup, peningkatan indeks keanekaragaman hayati, dan kembalinya kawanan ikan karang bernilai ekonomi."
+  },
+  {
+    "id": 81,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Bagaimana program 'Kampung Sehat' binaan PKT mendukung target Pembangunan Berkelanjutan (SDGs)?",
+    "options": [
+      "A. Membagikan stok obat keras tanpa resep medis kepada seluruh warga di balai pertemuan kelurahan",
+      "B. Membatasi warga memeriksakan kesehatan ke puskesmas dan mewajibkan terapi pengobatan tradisional",
+      "C. Meningkatkan sanitasi lingkungan, pencegahan stunting balita, dan edukasi pola hidup bersih",
+      "D. Mendirikan fasilitas gudang penampungan bahan kimia tambahan di tengah pemukiman padat penduduk"
+    ],
+    "answer": "C",
+    "explanation": "Program Kampung Sehat mengintervensi penurunan angka stunting, peningkatan sanitasi air bersih, posyandu terpadu, dan pola hidup bersih sehat (PHBS) warga sekitar."
+  },
+  {
+    "id": 82,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Apa tujuan dari program penanaman pohon buah langka nusantara di area hijau industri Pupuk Kaltim?",
+    "options": [
+      "A. Membuka unit usaha perkebunan buah komersial untuk menyaingi komoditas pedagang pasar tradisional",
+      "B. Menghilangkan area ruang terbuka hijau agar seluruh lahan pabrik dapat ditutup lapisan aspal beton",
+      "C. Menghalangi penglihatan masyarakat umum terhadap aktivitas operasional pabrik amoniak dan urea",
+      "D. Pelestarian keanekaragaman genetik tumbuhan lokal sekaligus menjadi zona penyerap polusi"
+    ],
+    "answer": "D",
+    "explanation": "Koleksi tanaman buah langka nusantara di zona penyangga (green buffer zone) melestarikan plasma nutfah nasional sekaligus berfungsi sebagai paru-paru penyerap karbon alami."
+  },
+  {
+    "id": 83,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Dalam prinsip keterlibatan masyarakat (Social Inclusion), bagaimana PKT memberdayakan kelompok rentan / disabilitas di Bontang?",
+    "options": [
+      "A. Memberikan pelatihan keterampilan, modal usaha mandiri, dan akses kerja inklusif yang setara",
+      "B. Mengisolasi kelompok rentan dari kegiatan ekonomi produktif demi menghindari tekanan kerja harian",
+      "C. Menyalurkan paket bantuan bahan pokok sekali seumur hidup tanpa program pendampingan wirausaha",
+      "D. Melarang produk kerajinan tangan hasil karya kelompok disabilitas dipamerkan pada gerai UMKM PKT"
+    ],
+    "answer": "A",
+    "explanation": "Inklusi sosial PKT memberdayakan kelompok disabilitas melalui pelatihan kejuruan (seperti batik motif khas Bontang), permodalan, dan akses pasar yang setara dan mandiri."
+  },
+  {
+    "id": 84,
+    "nodeId": "node_7",
+    "category": "Konservasi & Inovasi Sosial",
+    "question": "Apa dampak jangka panjang dari sinergi antara kepatuhan lingkungan, konservasi alam, dan inovasi sosial bagi PKT?",
+    "options": [
+      "A. Terjadinya penurunan laba bersih perusahaan secara terus-menerus akibat tingginya biaya pelestarian",
+      "B. Terciptanya izin sosial beroperasi (Social License to Operate) yang kokoh dan keberlanjutan bisnis",
+      "C. Pembubaran organisasi serikat buruh karena seluruh kebijakan perusahaan ditentukan lembaga swadaya",
+      "D. Kewajiban bagi seluruh anggota direksi perusahaan untuk menempati rumah dinas di hutan mangrove"
+    ],
+    "answer": "B",
+    "explanation": "Sinergi ESG dan kepedulian masyarakat memperkuat Social License to Operate, memitigasi risiko sosial, dan menjaga kesinambungan operasional korporasi hingga masa depan."
+  }
+]
