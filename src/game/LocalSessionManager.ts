@@ -791,8 +791,8 @@ export class LocalSessionManager {
 
   public applyDamage(victimId: string, attackerId: string, attackerName: string, damage: number, knockback: number, attackerX: number) {
     const victim = this.players.get(victimId);
+    if (!victim) return;
     const attacker = this.players.get(attackerId);
-    if (!victim || !attacker) return;
 
     const wasKO = victim.takeDamageAndKnockback(
       damage,
@@ -800,8 +800,10 @@ export class LocalSessionManager {
       attackerX,
       attackerName,
       (victimName, killerName) => {
-        attacker.state.koCount += 1;
-        this.uiManager.addKillfeed(`${killerName} berhasil menumbangkan ${victimName} (K.O)! (+30 Poin)`, 'ko');
+        if (attacker) {
+          attacker.state.koCount += 1;
+        }
+        this.uiManager.addKillfeed(`${killerName || attackerName} berhasil menumbangkan ${victimName} (K.O)! (+30 Poin)`, 'ko');
       }
     );
 

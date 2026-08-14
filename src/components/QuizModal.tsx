@@ -28,6 +28,31 @@ export const QuizModal: React.FC<QuizModalProps> = ({ quizData, onSubmitAnswer, 
     onSubmitAnswer(key);
   };
 
+  // Keyboard navigation & stop propagation to prevent background movement
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      e.stopPropagation();
+      const k = e.key.toUpperCase();
+      if (!isAnswered) {
+        if (['A', 'B', 'C', 'D'].includes(k)) {
+          handleSelect(k);
+        } else if (['1', '2', '3', '4'].includes(k)) {
+          const keyMap: Record<string, string> = { '1': 'A', '2': 'B', '3': 'C', '4': 'D' };
+          handleSelect(keyMap[k]);
+        }
+      } else {
+        if (e.key === 'Enter' || e.key === ' ' || e.key === 'Escape') {
+          onClose();
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown, true);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown, true);
+    };
+  }, [isAnswered, onClose]);
+
   // Auto close timer after answering so player can read explanation
   useEffect(() => {
     if (isAnswered) {
