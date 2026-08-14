@@ -35,6 +35,7 @@ export class LocalSessionManager {
   public isGameStarted: boolean = false;
   public countdownSeconds: number | null = null;
   public isHost: boolean = false;
+  public hostPlayerName: string | null = null;
   public isMatchActive: boolean = false;
   public isMatchEnded: boolean = false;
   public matchTimerSeconds: number = 15 * 60;
@@ -62,14 +63,13 @@ export class LocalSessionManager {
     this.quizEngine.resetAll();
     this.isGameStarted = false;
     this.countdownSeconds = null;
-    const isNameFarhan = localPlayerName.trim().toLowerCase().includes('farhan');
-    this.isHost = isNameFarhan;
+    this.isHost = false; // Assigned dynamically by server based on first joiner
 
     // Assign unique local player ID for this browser tab
     this.localPlayerId = `p_user_${Date.now()}_${Math.floor(Math.random() * 1000)}`;
 
     // Create Local Player
-    const localPlayer = new Player2D(this.localPlayerId, localPlayerName, false, isNameFarhan, 0);
+    const localPlayer = new Player2D(this.localPlayerId, localPlayerName, false, false, 0);
     
     // Load from Local Storage if returning
     try {
@@ -237,6 +237,13 @@ export class LocalSessionManager {
           this.isMatchEnded = false;
           this.matchTimerSeconds = (data.roomState.durationMinutes || 15) * 60;
         }
+      }
+
+      if (data.hostPlayerName) {
+        this.hostPlayerName = data.hostPlayerName;
+      }
+      if (data.roomState?.hostPlayerName) {
+        this.hostPlayerName = data.roomState.hostPlayerName;
       }
 
       if (data.isHost !== undefined) {

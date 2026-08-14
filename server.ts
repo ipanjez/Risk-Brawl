@@ -51,6 +51,7 @@ async function startServer() {
     durationMinutes: number;
     mapLayout: string;
     mapTheme: string;
+    hostPlayerName: string | null;
     players: Map<string, any>; // keyed by playerName
     disconnectedPlayerStates: Map<string, any>; // keyed by playerName
   }
@@ -66,6 +67,7 @@ async function startServer() {
         durationMinutes: 15,
         mapLayout: 'standard',
         mapTheme: 'industrial_green',
+        hostPlayerName: null,
         players: new Map(),
         disconnectedPlayerStates: new Map(),
       });
@@ -77,6 +79,7 @@ async function startServer() {
       if (elapsedSec >= (room.durationMinutes || 15) * 60) {
         room.isGameStarted = false;
         room.startTime = null;
+        room.hostPlayerName = null; // Session expired, reset host for next game
       }
     }
     return room;
@@ -90,16 +93,25 @@ async function startServer() {
         const data = JSON.parse(message.toString());
 
         if (data.type === 'join_room') {
+          const playerName = (data.name || 'Auditor').trim();
           clientsMap.set(clientId, {
             ws,
             playerId: clientId,
-            playerName: data.name || 'Auditor',
+            playerName: playerName,
             roomCode: data.roomCode || 'PKT-ESG-2026',
           });
 
           // Acknowledge Join & Send Room State + Any Saved Disconnected State
           const room = getRoom(data.roomCode || 'PKT-ESG-2026');
-          const savedPlayerState = room.disconnectedPlayerStates.get(data.name || 'Auditor');
+          const savedPlayerState = room.disconnectedPlayerStates.get(playerName);
+
+          // The first player to enter the room becomes the Host throughout this session
+          if (!room.hostPlayerName) {
+            room.hostPlayerName = playerName;
+          }
+
+          // If the player reconnects with the same name, they keep their host privileges!
+          const isHost = !!(room.hostPlayerName && room.hostPlayerName.toLowerCase() === playerName.toLowerCase());
 
           // If game is in Lobby, force 0 scores for all players
           if (!room.isGameStarted) {
@@ -117,13 +129,12 @@ async function startServer() {
             });
           }
 
-          const isHost = (data.name || '').trim().toLowerCase().includes('farhan');
-
           ws.send(
             JSON.stringify({
               type: 'room_joined',
               playerId: clientId,
               isHost: isHost,
+              hostPlayerName: room.hostPlayerName,
               connectedCount: clientsMap.size,
               savedPlayerState: savedPlayerState || null,
               roomState: {
@@ -132,6 +143,7 @@ async function startServer() {
                 durationMinutes: room.durationMinutes,
                 mapLayout: room.mapLayout || 'standard',
                 mapTheme: room.mapTheme || 'industrial_green',
+                hostPlayerName: room.hostPlayerName,
                 players: Array.from(room.players.entries()),
               }
             })
@@ -296,6 +308,11 @@ async function startServer() {
         room.players.delete(client.playerName);
         clientsMap.delete(clientId);
 
+        // If all clients left and game is in lobby, reset host for next session
+        if (clientsMap.size === 0 && !room.isGameStarted) {
+          room.hostPlayerName = null;
+        }
+
         broadcastToRoom(client.roomCode, {
           type: 'player_left',
           playerId: clientId,
@@ -324,7 +341,7 @@ async function startServer() {
   app.get('/api/room/:code', (req, res) => {
     const code = req.params.code;
     if (!roomsMap.has(code)) {
-      res.json({ isGameStarted: false, players: [] });
+      res.json({ isGameStarted: false, players: [], hostPlayerName: null });
       return;
     }
     const room = roomsMap.get(code)!;
@@ -344,6 +361,7 @@ async function startServer() {
       isGameStarted: room.isGameStarted,
       startTime: room.startTime,
       durationMinutes: room.durationMinutes || 15,
+      hostPlayerName: room.hostPlayerName,
       players: allPlayers,
     });
   });

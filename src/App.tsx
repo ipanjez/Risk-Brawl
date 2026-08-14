@@ -75,7 +75,7 @@ export default function App() {
   const [killfeedEntries, setKillfeedEntries] = useState<KillfeedEntry[]>([]);
   const [activeQuiz, setActiveQuiz] = useState<any>(null);
   const [matchTimerSeconds, setMatchTimerSeconds] = useState<number>(15 * 60);
-  const [roomState, setRoomState] = useState<{ isGameStarted: boolean, startTime: number | null, durationMinutes?: number, players: {name: string, isActive: boolean}[] } | null>(null);
+  const [roomState, setRoomState] = useState<{ isGameStarted: boolean, startTime: number | null, durationMinutes?: number, hostPlayerName?: string | null, players: {name: string, isActive: boolean}[] } | null>(null);
 
   useEffect(() => {
     if (screen === 'character') {

@@ -10,7 +10,7 @@ Game ini menggabungkan mekanisme aksi arena pertarungan yang kompetitif, kuis ta
 
 - 🎮 **Real-Time Multiplayer Arena (WebSocket 60 FPS):** Pertarungan aksi *real-time* mulus dengan sinkronisasi posisi, pergerakan, proyektil senjata, sistem serang, dan reaksi *emote* percakapan antar pemain di jaringan LAN maupun internet.
 - 🧠 **7 Knowledge Towers & 84 Bank Soal Terstandar:** Menjelajahi 7 menara ilmu tata kelola dengan 84 butir soal berbobot tinggi. Didesain secara psikometris dengan panjang opsi jawaban yang seimbang dan distribusi kunci merata (25% untuk A, B, C, D) sehingga pemain tidak dapat menebak jawaban hanya dari panjang teks.
-- 👑 **Sistem Otoritas Host Eksklusif ("Farhan"):** Pemain bernama *Farhan* secara otomatis dikenali sebagai **Host** dengan wewenang eksklusif mengatur durasi pertandingan (5–30 menit), memilih tata letak arena, mengganti tema visual, dan memulai jalannya pertandingan.
+- 👑 **Sistem Otoritas Host Dinamis & Persisten:** Pemain pertama yang memasuki ruang tunggu sesi otomatis diangkat sebagai **Host** dengan wewenang mengatur durasi pertandingan (5–30 menit), memilih tata letak arena, mengganti tema visual, dan memulai permainan. Status Host ini bertahan sepanjang sesi pertandingan meskipun sempat terputus koneksi (otomatis memulihkan hak Host saat bergabung kembali).
 - 🏗️ **4 Layout Platform & Crumbling Mechanics:** Pilihan tata letak arena fleksibel (*3-Tier Lini Standar, Piramida Bertingkat, Menara Kembar, Kepulauan Mengambang*) dilengkapi platform dinamis yang dapat berguncang dan runtuh saat diinjak (*Crumbling Platform*).
 - 🎨 **4 Tema Visual Dinamis (Thematic Maps):** 
   - 🟢 **Petrokimia Hijau Klasik:** Suasana pabrik amoniak & urea PKT standar.
@@ -139,7 +139,8 @@ $$\text{Total Skor} = \text{Knowledge Score} + (\text{K.O. Count} \times 30) + \
 │               NODE.JS EXPRESS SERVER                    │
 │  ┌───────────────────────────────────────────────────┐  │
 │  │             WebSocket Server (WSS)                │  │
-│  │  - Host Authorization ("Farhan" Exclusive)        │  │
+│  │  - Dynamic First-Player Host Authorization        │  │
+│  │  - Persistent Session & Reconnect Preservation    │  │
 │  │  - Dynamic Map Layout & Theme Broadcaster         │  │
 │  │  - Position & Action Interpolation Relayer        │  │
 │  │  - Match Timer & Score Lifecycle Coordinator      │  │

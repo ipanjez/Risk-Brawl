@@ -386,11 +386,11 @@ export const BrawlerCanvas: React.FC<BrawlerCanvasProps> = ({ sessionManager, on
           <div className="text-xs text-slate-300 font-mono bg-[#162a21] px-3 py-1.5 rounded-lg border border-[#2d4d3e] w-full flex items-center justify-center gap-1.5">
             {isHost ? (
               <span className="text-[#facc15] font-bold flex items-center gap-1">
-                <Crown className="w-3.5 h-3.5" /> Anda adalah HOST Sesi Ini (Farhan)
+                <Crown className="w-3.5 h-3.5" /> Anda adalah HOST Sesi Ini
               </span>
             ) : (
               <span className="text-slate-300">
-                👤 Anda bergabung sebagai Pemain (Hak akses Host: <strong className="text-[#facc15]">Farhan</strong>)
+                👤 Anda bergabung sebagai Pemain (Host: <strong className="text-[#facc15]">{sessionManager.hostPlayerName || 'Host'}</strong>)
               </span>
             )}
           </div>
@@ -425,7 +425,7 @@ export const BrawlerCanvas: React.FC<BrawlerCanvasProps> = ({ sessionManager, on
               </div>
             ) : (
               <div className="text-[11px] text-slate-400 font-mono text-center">
-                Waktu diset oleh Host Farhan ({sessionManager.matchConfig.durationMinutes} menit)
+                Waktu diset oleh Host {sessionManager.hostPlayerName ? `(${sessionManager.hostPlayerName})` : ''} ({sessionManager.matchConfig.durationMinutes} menit)
               </div>
             )}
           </div>
@@ -461,7 +461,7 @@ export const BrawlerCanvas: React.FC<BrawlerCanvasProps> = ({ sessionManager, on
               </div>
             ) : (
               <div className="text-[11px] text-slate-400 font-mono text-center">
-                Layout platform diset oleh Host Farhan ({MAP_LAYOUTS[sessionManager.currentLayoutId]?.name})
+                Layout platform diset oleh Host {sessionManager.hostPlayerName ? `(${sessionManager.hostPlayerName})` : ''} ({MAP_LAYOUTS[sessionManager.currentLayoutId]?.name})
               </div>
             )}
           </div>
@@ -502,7 +502,7 @@ export const BrawlerCanvas: React.FC<BrawlerCanvasProps> = ({ sessionManager, on
               </div>
             ) : (
               <div className="text-[11px] text-slate-400 font-mono text-center">
-                Tema visual diset oleh Host Farhan ({MAP_THEMES[sessionManager.currentThemeId]?.name})
+                Tema visual diset oleh Host {sessionManager.hostPlayerName ? `(${sessionManager.hostPlayerName})` : ''} ({MAP_THEMES[sessionManager.currentThemeId]?.name})
               </div>
             )}
           </div>
@@ -529,7 +529,7 @@ export const BrawlerCanvas: React.FC<BrawlerCanvasProps> = ({ sessionManager, on
               </button>
             ) : (
               <div className="text-xs font-mono text-slate-400 bg-white/5 py-2.5 px-3 rounded-xl w-full border border-white/10 flex items-center justify-center">
-                ⏳ Menunggu Host Farhan...
+                ⏳ Menunggu Host {sessionManager.hostPlayerName ? `(${sessionManager.hostPlayerName})` : ''} Memulai Game...
               </div>
             )}
           </div>

@@ -9,7 +9,7 @@ interface CharacterCreatorProps {
   avatar: AvatarCustomization;
   setAvatar: React.Dispatch<React.SetStateAction<AvatarCustomization>>;
   onStartGame: () => void;
-  roomState?: { isGameStarted: boolean; startTime: number | null; players: {name: string, isActive: boolean}[] } | null;
+  roomState?: { isGameStarted: boolean; startTime: number | null; hostPlayerName?: string | null; players: {name: string, isActive: boolean}[] } | null;
 }
 
 export const CharacterCreator: React.FC<CharacterCreatorProps> = ({
@@ -255,16 +255,31 @@ export const CharacterCreator: React.FC<CharacterCreatorProps> = ({
               />
               <User className="w-4 h-4 text-[#86efac] absolute right-3 top-3" />
             </div>
-            {name.trim().toLowerCase().includes('farhan') ? (
-              <div className="flex items-center gap-1.5 mt-1.5 text-xs text-[#facc15] font-mono animate-fade-in bg-[#facc15]/10 border border-[#facc15]/30 px-2.5 py-1 rounded-md">
-                <Crown className="w-3.5 h-3.5 shrink-0" />
-                <span>Hak Akses <strong>HOST</strong> Aktif untuk <strong>Farhan</strong> (Dapat mengatur tema, layout, durasi, dan memulai game).</span>
-              </div>
+            {roomState?.hostPlayerName ? (
+              name.trim() && name.trim().toLowerCase() === roomState.hostPlayerName.toLowerCase() ? (
+                <div className="flex items-center gap-1.5 mt-1.5 text-xs text-[#facc15] font-mono animate-fade-in bg-[#facc15]/10 border border-[#facc15]/30 px-2.5 py-1 rounded-md">
+                  <Crown className="w-3.5 h-3.5 shrink-0" />
+                  <span>Anda terdaftar sebagai <strong>HOST</strong> sesi ini (Dapat mengatur tema, layout, durasi, dan memulai game).</span>
+                </div>
+              ) : name.trim() ? (
+                <div className="flex items-center gap-1.5 mt-1.5 text-[11px] text-slate-400 font-mono">
+                  <span>👤 Masuk sebagai <strong>Peserta</strong> (Host Sesi: <strong className="text-[#facc15]">{roomState.hostPlayerName}</strong>).</span>
+                </div>
+              ) : (
+                <div className="flex items-center gap-1.5 mt-1.5 text-[11px] text-slate-400 font-mono">
+                  <span>👑 Host Sesi: <strong className="text-[#facc15]">{roomState.hostPlayerName}</strong></span>
+                </div>
+              )
             ) : name.trim() ? (
-              <div className="flex items-center gap-1.5 mt-1.5 text-[11px] text-slate-400 font-mono">
-                <span>👤 Masuk sebagai <strong>Peserta / Pemain</strong> (Host Sesi: Farhan).</span>
+              <div className="flex items-center gap-1.5 mt-1.5 text-xs text-[#86efac] font-mono animate-fade-in bg-[#86efac]/10 border border-[#86efac]/30 px-2.5 py-1 rounded-md">
+                <Crown className="w-3.5 h-3.5 shrink-0 text-[#facc15]" />
+                <span>⭐ Ruang tunggu belum memiliki Host. <strong>{name.trim()}</strong> akan menjadi <strong>HOST</strong> sesi ini saat masuk!</span>
               </div>
-            ) : null}
+            ) : (
+              <div className="flex items-center gap-1.5 mt-1.5 text-[11px] text-slate-400 font-mono">
+                <span>⭐ Orang pertama yang masuk ke ruang tunggu otomatis menjadi <strong>HOST</strong> sesi ini.</span>
+              </div>
+            )}
             {error && (
               <div className="flex items-center gap-1.5 mt-1.5 text-xs text-red-400 font-mono animate-shake">
                 <AlertCircle className="w-3.5 h-3.5 shrink-0" />
