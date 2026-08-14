@@ -106,6 +106,23 @@ npm run dev
 
 ---
 
+### 👑 Sistem Otoritas Host & Manajemen Sesi (Lobby Management)
+
+Game ini mengadopsi sistem kepemimpinan sesi yang dinamis, adil, dan andal:
+1. **Penetapan Host Otomatis (First Joiner):**
+   - Pemain pertama yang memasuki ruang tunggu sesi (*Lobby*) secara otomatis ditetapkan oleh server sebagai **Host Sesi**.
+2. **Wewenang Eksklusif Host:**
+   - ⏱️ Mengatur durasi pertandingan (pilihan: 5, 10, 15, 20, atau 30 menit).
+   - 🏗️ Mengganti tata letak arena (*Standard, Pyramid, Twin Towers, Floating Islands*).
+   - 🎨 Mengganti tema visual arena (*Petrokimia Hijau, Cyberpunk 2060, Eco-Marine, Sunset Solaris*).
+   - 🚀 Memulai jalannya pertandingan (*Start Match*).
+3. **Ketahanan Koneksi (Host Persistence on Reconnect):**
+   - Jika Host mengalami gangguan jaringan atau menutup browser tanpa sengaja, server tetap mengunci hak Host untuk nama pemain tersebut. Saat Host bergabung kembali (*rejoin*), hak akses Host otomatis dipulihkan penuh sepanjang sesi tersebut masih berjalan.
+4. **Peran Pemain Lain (Peserta):**
+   - Pemain berikutnya yang bergabung berstatus sebagai Peserta dan dapat melakukan pemanasan (berlari/melompat di arena) sambil menunggu Host memulai pertandingan.
+
+---
+
 ### 🏆 Sistem Penghitungan Skor
 
 Skor total akhir dihitung berdasarkan akumulasi performa komprehensif:
